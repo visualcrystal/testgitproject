@@ -1,2 +1,0 @@
-# testgitproject
-Test Git Project
